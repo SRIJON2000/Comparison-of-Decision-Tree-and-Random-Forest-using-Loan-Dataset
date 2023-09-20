@@ -1,0 +1,18 @@
+Account 			Type			Requirement
+-----------		-------------------	------------------------
+If Balance Of Account is less than 10lac
+Savings		Agriculture			Field Document(Land Records)
+			Personal			''
+			Personal(Small Business)   ITR4 File (Check Turn Over And Profit)
+
+If Balance Of Account is greater than 10 lac or higher
+Current 		Business 		    need ITR	(Check Turn Over And Profit) 
+			Organaization		ITR	(Check Turn Over And Profit)
+			Company				ITR	(Check Turn Over And Profit)
+
+
+
+Cibil Score (600-900)
+IF Cibil is b/w 600-700 person paying loan in it's own time not bank time
+IF Cibil is b/w 700-800 person paying loan time to time
+IF Cibil is b/w 800-900 person taking loan more than 5 yrs and paying loan time to time 					
